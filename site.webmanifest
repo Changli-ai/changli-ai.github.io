@@ -1,0 +1,12 @@
+{
+  "name": "ClonDisk",
+  "short_name": "ClonDisk",
+  "start_url": "/ClonDisk/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#1f5fd6",
+  "icons": [
+    { "src": "/iconos/icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/iconos/icono-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
